@@ -2,7 +2,7 @@
 Spring Security &#128274; Curso Spring Framework Dio
 </h2>
 
-<h3>MAP</h3>
+<h3>SPRING SECURITY</h3>
 <li>Spring Security é apenas um grupo de filtros de servlet, que ajudam você a adicionar autenticação e autorização ao seu aplicativo da web</li>
 <br>
 
