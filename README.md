@@ -18,6 +18,6 @@ Spring Security &#128274; Curso Spring Framework Dio
 - [x] Uso de API Rest;
 - [x] Autenticação com mais de um usuário e com perfis de acesso;
 
---------------------
+----------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
